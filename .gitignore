@@ -1,0 +1,4 @@
+back/Dockerfile
+back/.dockerignore
+tarea/Dockerfile
+tarea/.dockerignore
